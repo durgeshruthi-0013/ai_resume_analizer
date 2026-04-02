@@ -134,8 +134,3 @@ if uploaded_file:
         score = ats_score(resume_text, best_job)
         st.progress(score / 100)
         st.write(f"Score: {score}/100")
-        f"Role Scores: {scores}\n"
-        f"Top keywords: {', '.join([f'{w} ({c})' for w,c in top_keywords])}\n"
-        )
-        if st.button("Download Analysis Report"):
-            st.download_button("Download report TXT", report_text, file_name="resume_analysis.txt", mime="text/plain")
