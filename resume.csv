@@ -1,0 +1,32 @@
+📂1. Resume Datasets
+🔹 Resume Dataset (Kaggle)
+Contains resumes categorized into roles (Data Scientist, HR, etc.)
+Helps in:
+Resume classification
+Skill extraction
+Use for training ML models
+🔹 Updated Resume Dataset
+More categories and cleaner text
+Useful for:
+Predicting job roles from resumes
+📂 2. Job Description Datasets
+🔹 Job Descriptions Dataset (Kaggle)
+Contains job roles, required skills, and descriptions
+Helps in:
+Matching resumes with job requirements
+Keyword comparison
+📂 3. Skills / Keywords Dataset
+🔹 Skills Dataset
+List of technical + soft skills
+Use for:
+Keyword matching
+Resume scoring
+📂 4. NLP / Text Classification Dataset
+🔹 Text Classification Dataset (Kaggle)
+Helps if you want to:
+Train ML models for resume categorization
+📂 5. ATS-Friendly Resume Dataset (Optional)
+🔹 ATS Resume Dataset
+Useful for:
+Understanding ATS scoring
+Improving resume ranking logic
